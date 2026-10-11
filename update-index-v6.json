@@ -1,12 +1,12 @@
 {
   "schema": "apttil-update-index-6",
-  "sequence": 72,
-  "issued_at": "2026-10-11T19:22:48Z",
-  "expires": "2026-10-18T19:22:48Z",
+  "sequence": 73,
+  "issued_at": "2026-10-11T19:34:55Z",
+  "expires": "2026-10-18T19:34:55Z",
   "channels": {
     "stable": {
-      "version": "1.4.4",
-      "tag": "v1.4.4-candidate.38147323758.1",
+      "version": "1.5.1",
+      "tag": "v1.5.1-candidate.38166658646.1",
       "manifest": "manifest-v6.json",
       "authorization": "release-authorization-v6.json",
       "signature": "release-authorization-v6.sig.json"
