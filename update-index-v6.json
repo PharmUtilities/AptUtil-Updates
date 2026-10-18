@@ -1,8 +1,8 @@
 {
   "schema": "apttil-update-index-6",
-  "sequence": 92,
-  "issued_at": "2026-10-17T07:44:55Z",
-  "expires": "2026-10-24T07:44:55Z",
+  "sequence": 93,
+  "issued_at": "2026-10-18T07:59:25Z",
+  "expires": "2026-10-25T07:59:25Z",
   "channels": {
     "stable": {
       "version": "1.5.8",
