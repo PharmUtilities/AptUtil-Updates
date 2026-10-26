@@ -1,12 +1,12 @@
 {
   "schema": "aptutil-detached-signature-1",
   "role": "index",
-  "signed_sha256": "6e313f80caea252af100c7c2cd598431a5dba2b5a8e0148ce45080096bae1b9d",
+  "signed_sha256": "a0053848f1aa695f7625abdfc07cd3dfac236e156bda9c4ee4e2d617424f9849",
   "signatures": [
     {
       "key_id": "316550e09364599d939e271b28c825a47fb2c58c3cd714558b6468f64a3b02cf",
       "algorithm": "RS256",
-      "value": "WEDhcZpHi_RrIcRh2JtLYgxc8XLVyKte2sBUyh9bnQVsXRSMV5SRGhv_vQXsf-FBkJGc8JenM0xuWZyw-us0y2LyxgaUSNbOxlSdaJIn2tmgxgEjhAQ7Zqf00e5yGqHOXr81_LVB_v8bWojgv26lUmsYmi71juupvd8yMIckSHYDV-ThiRTma6-m6q1AuYbfdGN20FBvjBeRO5plYGub6GXEx0o-67NPbP110DBb1YVzBhTO8ApZRzNYOPfVmGXe8Aa_TaTzTi_GQEOG8DpZ-Wp0FY5h3k4-WQzE67A7E5hql1hAiya0KHYQ49WDGcsDSC9Dvc3xbklHXv126p8scyDM9xpht-bLdBn73zMNmpeT6E8X47eZHYuCAM1rw5JzQDvmzO1wTmyxs14ani_3K_494mcOLxSD5WUDNH7mlfNTxjv8G4bEAQ_rnUUorE0nVGnt8Vy4wv3LIZy9gp3Md07nPC176tR08wUugy8g2ky2_fYCvMpeYHplx4wS8boI"
+      "value": "Mw3aSX-kWKlcukrY5KKxYXt8VTDOtmsLJVW7IQ8DRUD7KAJAUu50_Qu-sQIV_t_DKcvopAHwyfMjhKceHnaDzRzwoqV5vqrpas3ZDtv1ue8VIocJ91Y2_-g9IVt6jz1V5jAy821IcYkZn2AIME0VOvZrEsxUGqhKdu40rz71rKuWR2rK5no_X-YwiZtpaiOAf9hiRDAcBYNWya7gXTIz_Wed8L-8e4410h4XJHtyyvj-mXTvN8DlrRUW6W_FKqyJjarvfaxglH-3-qT7dffG8FhGK8aWDGlSa20Ex32ntAW9sUJ8vaxJcpeaUDLwOUTIj9AQSp6UxguXZvL4vcbrBCExGbrzDvAl1dThdrhWouqHpY6-PNH6ppYI9DPnxANWoxUHK7taVDQECFKInkjk5Lo5mlIC5xnQpNrvKgjdb2npBGiankP_VGKeY2kPf1pykBtiMWjzuPPcCStVf1HZ2fpGY4iA0kj8ZoY2vu_SoxQpKx8ErIwAtkRjO1KKNSmb"
     }
   ]
 }
