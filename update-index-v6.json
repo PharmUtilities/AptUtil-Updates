@@ -1,8 +1,8 @@
 {
   "schema": "apttil-update-index-6",
-  "sequence": 136,
-  "issued_at": "2026-11-22T23:48:13Z",
-  "expires": "2026-11-29T23:48:13Z",
+  "sequence": 137,
+  "issued_at": "2026-11-23T07:40:58Z",
+  "expires": "2026-11-30T07:40:58Z",
   "channels": {
     "stable": {
       "version": "1.5.15",
@@ -12,8 +12,8 @@
       "signature": "release-authorization-v6.sig.json"
     },
     "test": {
-      "version": "1.5.15",
-      "tag": "v1.5.15-candidate.45083274469.1",
+      "version": "1.5.16",
+      "tag": "v1.5.16-candidate.45090870898.1",
       "manifest": "manifest-v6.json",
       "authorization": "release-authorization-v6.json",
       "signature": "release-authorization-v6.sig.json"
